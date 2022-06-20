@@ -22,4 +22,4 @@ let a = Object.assign(obj1, obj2, obj3)
 
 //2.Object Spread
 let b = { ...obj1, ...obj2, ...obj3 }
-//console.log(b)
+//console.log(b).
